@@ -18,6 +18,7 @@ public class ControlStructure {
             System.out.println("First number is larger");
         else
             System.out.println("Second number is bigger");
+        sc.close();
     }
 
 }
