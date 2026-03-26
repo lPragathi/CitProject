@@ -13,7 +13,7 @@ public class Nestedif {
                 System.out.println("We are eligible to vote but not eligible avail government scheme");
         } else
         System.out.println("We are not eligible to vote and not eligible to avail government scaheme");
-
+        sc.close();
     }
 }
     
