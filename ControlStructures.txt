@@ -1,0 +1,4 @@
+It includes three parts:
+1.Selection(Decision making) control structure
+2.Iteration(Looping) control structure
+3.Jump(Branching)control structure
